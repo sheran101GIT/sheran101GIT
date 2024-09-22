@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI , and it is also my branch.
 - 🌱 I’m currently doing my engineering in Artificial intelligence and Data science.
 - 💞️ I’m looking to collaborate mostly in AI ,but if it picks interest only sky is the limit. 
-- 📫 this are my social media ID {https://www.instagram.com/sheryas_101/} , and this is my Huggingface ID {https://huggingface.co/sheran-101}
+- 📫 you can contact me on {https://www.instagram.com/sheryas_101/} , and this is my Huggingface ID {https://huggingface.co/sheran-101}
 - 😄 Pronouns: always will be "HIM".
 - ⚡ Fun fact: I'm a beginner (;'_')
 

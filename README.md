@@ -16,11 +16,6 @@ I am currently pursuing my Engineering degree with a deep focus on Artificial In
 
 ---
 
-### 📈 GitHub Stats
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheran101GIT&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-kokane-84032228a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheryas_101/)

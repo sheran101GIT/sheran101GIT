@@ -1,11 +1,31 @@
-- 👋 Hi, I’m shreyas and is my github profile {@sheran101GIT}
-- 👀 I’m interested in AI , and it is also my branch.
-- 🌱 I’m currently doing my engineering in Artificial intelligence and Data science.
-- 💞️ I’m looking to collaborate mostly in AI ,but if it picks interest only sky is the limit. 
-- 📫 you can contact me on {https://www.instagram.com/sheryas_101/} , and this is my Huggingface ID {https://huggingface.co/sheran-101}
-- 😄 Pronouns: always will be "HIM".
-- ⚡ Fun fact: I'm a beginner (;'_')
+# 👋 Hi, I'm Shreyas! 
 
+### 🤖 Aspiring AI & Data Science Engineer
+I am currently pursuing my Engineering degree with a deep focus on Artificial Intelligence and Data Science. I love building intelligent systems and exploring the vast possibilities of Machine Learning.
+
+---
+
+### 🛠️ Tech Stack & Interests
+![AI](https://img.shields.io/badge/Interests-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=ai) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+*   🌱 **Currently Learning:** Advanced architectures in Deep Learning and Data Science pipelines.
+*   💞️ **Collaboration:** Open to AI-driven projects, but I’m always curious—if the idea is exciting, sky's the limit!
+*   ⚡ **Fun Fact:** Even though I'm deep into AI, I still consider myself a perpetual beginner—always learning, always curious (;'_')
+
+---
+
+### 📈 GitHub Stats
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheran101GIT&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-kokane-84032228a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheryas_101/)
+
+**Pronouns:** He/Him
 <!---
 sheran101GIT/sheran101GIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
